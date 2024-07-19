@@ -1,2 +1,3 @@
 # Python-SY
- SY Programming
+
+Code repo for Python Programming Lab in SY
