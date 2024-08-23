@@ -3,7 +3,7 @@ list_num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 num  = int(input("Enter a number: "))
 found = False
 for x in list_num:
-    if x == num:
+    if list_num[x] == num:
         found = True
         break
 if found:
