@@ -23,4 +23,4 @@ result = binary_search(arr, target)
 if result != -1:
     print("Element found at index", result)
 else:
-    print("Element not found")
+    print("Element not found")  
