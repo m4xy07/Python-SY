@@ -1,9 +1,8 @@
-# Using dictionaries in python and its functions
 dict1 = {}
 
-dict1["name"] = "John"
-dict1["age"] = 30
-dict1["city"] = "New York"
+dict1["name"] = "Batman"
+dict1["age"] = 34
+dict1["city"] = "DC"
 
 print(dict1["name"])
 
